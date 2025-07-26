@@ -25,6 +25,7 @@ This is a simple web-based AI Image Generator built using HTML, CSS, and JavaScr
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5322991c-6111-4de1-80fd-96ee669a7cdb" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7659f187-d17d-4c96-9be1-3321044a612b" />
+
 ![WhatsApp Image 2025-07-26 at 17 57 41_9321823c](https://github.com/user-attachments/assets/a9041688-2f91-4e1d-bfae-a089d4944ade)
 
 ![WhatsApp Image 2025-07-26 at 17 57 50_c4571f52](https://github.com/user-attachments/assets/bdb0498e-6c45-4e0a-9d36-7c92df40db60)
